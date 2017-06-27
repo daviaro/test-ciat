@@ -1,0 +1,4 @@
+AI,Academic Institutions
+DO,Donor
+NG,Non-Govermental Organization
+RI,Research Institutions

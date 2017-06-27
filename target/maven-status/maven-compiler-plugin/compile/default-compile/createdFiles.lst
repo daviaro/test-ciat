@@ -1,0 +1,12 @@
+com/daviaro/test/ciat/services/TypeService.class
+com/daviaro/test/ciat/model/Partner.class
+com/daviaro/test/ciat/services/TypeService$SingletonHelper.class
+com/daviaro/test/ciat/services/CountryService$SingletonHelper.class
+com/daviaro/test/ciat/implement/FilePartner.class
+com/daviaro/test/ciat/model/Country.class
+com/daviaro/test/ciat/services/PartnerService$SingletonHelper.class
+com/daviaro/test/ciat/model/Type.class
+com/daviaro/test/ciat/actions/data/PartnerController.class
+com/daviaro/test/ciat/actions/page/CreateAction.class
+com/daviaro/test/ciat/services/PartnerService.class
+com/daviaro/test/ciat/services/CountryService.class

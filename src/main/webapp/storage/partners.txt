@@ -1,0 +1,3 @@
+|CIAT|Centro de internacional de agricultura tropical|AI|CO|Palmira|http://ciat.org
+CIAT|CIP|Centro de internacional de la papa|AI|CO|Palmira|http://ciat.org
+CIAT|IFPRI|International Food policy research institute|AI|CO|Palmira|http://ciat.org

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.2">
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/actions/data/package-info.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/actions/data/PartnerController.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/actions/page/CreateAction.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/actions/page/package-info.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/implement/FilePartner.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/implement/package-info.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/model/Country.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/model/package-info.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/model/Partner.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/model/Type.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/services/CountryService.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/services/package-info.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/services/PartnerService.java">
+</file>
+<file name="/Users/leydi/NetBeansProjects/test-ciat/src/main/java/com/daviaro/test/ciat/services/TypeService.java">
+</file>
+</checkstyle>
